@@ -1,4 +1,11 @@
  
+<div style="text-align: center;">
+<figure>
+        <img  src="imgs/RTP-and-RTCP-packets.png" alt="RTP and RTCP packets." width="800">
+        <figcaption>  RTP and RTCP packets.<br>  </figcaption>
+</figure>
+</div>
+source: 2015。A time delay based efficient approach for the synchronization of the audio and video streams-RTP and RTCP packets
 
 ## Introduction
 
